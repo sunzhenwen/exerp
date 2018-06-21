@@ -65,7 +65,7 @@ public class UniqueWord {
 		}
 		
 		// print top 10 occurrences
-		for (int i = 0; i < ws.size(); i++) {
+		for (int i = 0; i <10; i++) {
 			System.out.println(ws.get(i).toString());
 		}
 		
